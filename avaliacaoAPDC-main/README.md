@@ -1,2 +1,0 @@
-# avaliacaoAPDC
-AvaliacaoApp
